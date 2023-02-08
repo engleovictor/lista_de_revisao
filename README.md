@@ -1,0 +1,2 @@
+COMPILADOR: gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
+OS: Pop!_OS 22.04 LTS x86_64 (LINUX)
